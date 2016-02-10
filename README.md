@@ -1,5 +1,4 @@
-#*Welcome to my PHP OO*#
-**Refactoracao - Sem necessidade de classe abstracta**
+#*Welcome to my Design Patterns*#
 
 
 **Obrigado!**
